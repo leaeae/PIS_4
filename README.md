@@ -3,4 +3,6 @@ PIS_4
 
 Vjezba iz Projektiranja informacijskih sustava
 
-Vjezba3 Distribuirani sustavi verzioniranja
+Vjezba3 Distri 
+problem slucajno sam izbrisao ovo gore od vjezbe :/ 
+
